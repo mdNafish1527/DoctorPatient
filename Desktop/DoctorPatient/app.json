@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "DoctorPatient",
+    "slug": "doctorpatient",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.doctorpatient.app"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
